@@ -33,7 +33,7 @@ mental-health-prediction/
 │   └── ordinal_encoder.pkl              # Ordinal encoder
 ├── notebook/
 │   └── catboost_info/                   # CatBoost model info
-│   └── code6.ipynb                      # Jupyter notebook
+│   └── code.ipynb                      # Jupyter notebook
 ├── src/
 │   ├── __init__.py                      # Package initializer
 │   ├── predict_sample.py                # Sample prediction script
